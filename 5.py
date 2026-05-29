@@ -1,0 +1,6 @@
+tuple1 = (2,3,4,5,2)
+print(tuple1)
+print(max(tuple1))
+print(min(tuple1))
+print(tuple1.index(5))
+print(tuple.count(2))
