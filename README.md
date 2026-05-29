@@ -1,2 +1,1 @@
-# Upflairs
-Demo repository
+# Upflairs Assignment 1
